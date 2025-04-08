@@ -94,8 +94,7 @@ vão se concluindo até a sua entrega;
 O modelo Espiral organiza o processo de desenvolvimento em ciclos (ou espirais) onde cada ciclo representa uma versão melhorada do
  software, cada um composto por quatro fases principais: planejamento, análise de risco, engenharia, e avaliação.
 Essa metodologia tem como objetivo central redizir riscos, e para isso, utiliza de análises contínuas de riscos. É um método
-revolucionário onde possibilita grande flexibilidade de mudanças no decorrer do desenvolvimento do projeto, evitando falhas graves
-no final do projeto.
+revolucionário onde possibilita grande flexibilidade de mudanças no decorrer do desenvolvimento do projeto, evitando falhas graves no final.
 
 ## 💪 Metodologias Ágeis
   
@@ -123,7 +122,7 @@ um software.
 
 1- Satisfação do cliente: O objetivo é entregar valor continuamente, garantindo sempre a satisfação do cliente.
 
-2- Mudança em favor da vantagem competitiva: As mudanças são necessárias, se alguma melhoria, mesmo que em fase mais
+2- Mudança em favor da vantagem competitiva: As mudanças são necessárias, se há alguma melhoria, mesmo que em fase mais
 avançada, deve ser considerada.
 
 3- Prazos curtos: Pequenas entregas constantes (a cada duas semanas ou dois meses) ajudam a manter o projeto no
@@ -134,9 +133,9 @@ diariamente, durante todo o desenvolvimento do projeto. A colaboração no traba
  entre si e a um software de bastante sucesso.
 
 5- Ambientação e suporte: Para construir projetos ao redor de pessoas motivadas, é preciso dar a eles ambiente e suporte
- necessários, confiando que seu trabalho tenha resultado consistente e agradável.
+necessários, confiando que seu trabalho tenha resultado consistente e agradável.
 
-6- Falar na cara: A comunicação é indispensável numa metodologia de desenolvimento ágil de software, pois uma conversa
+6- Falar na cara: A comunicação é indispensável numa metodologia de desenvolvimento ágil de software, pois uma conversa
 clara e sincera evita mal-entendidos e acelera a tomada de decisões. 
 
 7- Funcionalidade: Um software funcional é o que realmente importa.
@@ -162,7 +161,7 @@ Cada sprint é um ciclo de trabalho que pode durar cerca de um mês e seu objeti
 sofisticadas do produto.
 
 O processo se dá início com a reunião de planejamento, onde são escolhidas tarefas que devem ter prioridade durante
-aquele ciclo. Essas tarefas são horganizadas em pequenas histórias de usuário e divididas em partes menores para
+aquele ciclo. Essas tarefas são organizadas em pequenas histórias de usuário e divididas em partes menores para
 facilitar o desenvolvimento.
 
 Durante a sprint acontecem reuniões frequentes, diariamente, para colocar em ordem o andamento do projeto, com cada
@@ -171,7 +170,7 @@ conclusão dessas etapas.
 
 No final ocorre a Revisão do Sprint, onde se apresenta o que foi desenvolvido e se recebe feedbacks das pessoas
 interessadas no projeto. Depois, a equipe faz uma Retrospectiva, onde se reflete sobre as possíveis melhorias que
-podem serem feitas para os próximos ciclos do projeto. A realização contínua desse processo contribui para a
+podem ser feitas para os próximos ciclos do projeto. A realização contínua desse processo contribui para a
 evolução eficiente do projeto, sempre levando em conta as necessidades do cliente.
 
 ### 💬 Cerimônias  
@@ -238,7 +237,7 @@ tarefas sejam organizadas, permite acompanhar prazos e até gerar relatórios so
 
 As duas ferramentas ajudam as equipes a visualizar melhor o que precisa ser feito, quem está
 trabalhando em cada tarefa e quais são as prioridades do projeto, deixando o trabalho bem fluido
-e todos sabendo onde está no projeto.
+e todos sabendo onde estão no projeto.
 ```
 
 ---
